@@ -1,4 +1,4 @@
-package merge_two_binary_trees;
+package leetcode.merge_two_binary_trees;
 
 public class TreeNode {
     int val;
