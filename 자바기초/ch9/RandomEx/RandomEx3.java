@@ -1,4 +1,4 @@
-package 자바기초.ch9;
+package 자바기초.ch9.RandomEx;
 
 import java.util.Arrays;
 import java.util.Random;

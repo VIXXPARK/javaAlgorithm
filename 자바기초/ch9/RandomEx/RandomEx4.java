@@ -1,4 +1,4 @@
-package 자바기초.ch9;
+package 자바기초.ch9.RandomEx;
 
 public class RandomEx4 {
     final static int RECORD_NUM = 10;
