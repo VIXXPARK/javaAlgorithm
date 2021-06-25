@@ -1,4 +1,4 @@
-package 자바기초.ch10.ChoiceFormatEx;
+package ch10.ChoiceFormatEx;
 
 import java.text.ChoiceFormat;
 

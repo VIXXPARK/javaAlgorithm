@@ -1,4 +1,4 @@
-package 자바기초.ch10.CalandarEx;
+package ch10.CalandarEx;
 
 public class CalendarEx8 {
     public static void main(String[] args) {

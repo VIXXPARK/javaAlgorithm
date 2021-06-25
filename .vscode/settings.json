@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "자바기초/ch11",
+        "자바기초/ch10",
+        "leetcode/Longest_SubString_Without_Repeating_Characters"
+    ]
+}

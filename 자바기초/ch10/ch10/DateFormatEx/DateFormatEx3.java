@@ -1,4 +1,4 @@
-package 자바기초.ch10.DateFormatEx;
+package ch10.DateFormatEx;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
