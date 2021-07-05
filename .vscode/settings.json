@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "자바기초/ch12/GenericsEx",
         "자바기초/ch11",
         "자바기초/ch10",
         "leetcode/Median_of_two_sorted_arrays",
         "leetcode/Longest_SubString_Without_Repeating_Characters",
         "leetcode/Longest_Palindromic_Substring",
-        "자바기초/ch12/GenericsEx"
+        ""
     ]
 }

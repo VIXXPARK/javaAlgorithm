@@ -1,3 +1,4 @@
+package leetcode.container_with_most_water;
 class Solution {
     public int maxArea(int[] height) {
         int left = 0, right = height.length - 1;
