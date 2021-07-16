@@ -1,5 +1,5 @@
 class medianSolution {
-    public static double findMedianSortedArrays(int[] A, int[] B) {
+    public  double findMedianSortedArrays(int[] A, int[] B) {
         int m = A.length, n = B.length;
         int l = (m + n + 1) / 2;
         int r = (m + n + 2) / 2;
@@ -24,10 +24,5 @@ class medianSolution {
             return getkth(A, aStart + k / 2, B, bStart, k - k / 2);// Check: aRight + bLeft
         else
             return getkth(A, aStart, B, bStart + k / 2, k - k / 2);// Check: bRight + aLeft
-    }
-    public static void main(String[] args){
-        int[] nums1={10,30};
-        int[] nums2={20,100};
-        System.out.println(""+findMedianSortedArrays(nums1, nums2));
     }
 }
