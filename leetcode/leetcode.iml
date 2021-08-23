@@ -3,15 +3,39 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Find_First_And_Last_Position_Of_Element_In_Sorted_Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Largest_rectangle_histogram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Longest_Palindromic_Substring" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Longest_SubString_Without_Repeating_Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Median_of_two_sorted_arrays" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/container_with_most_water" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Merge_Two_Sorted_List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/binary_tree_inorder_traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/climbing_stairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/edit_distance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/first_missing_positive" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generate_parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/group_anagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jump_game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jump_game_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/longest_valid_parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/maximum_subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/merge_intervals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minimum-window-substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minimum_path_sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/next_permutation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/permutations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/regular_expression_matching" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/three_sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rotate_image" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/search_in_rotated_sorted_array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sort-color" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/subsets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symmetric-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trapping_rain_water" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unique_binary_search_trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unique_path" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/validate_binary_search_tree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
