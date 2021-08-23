@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="차례로 쌓아가는 것은 stack 구조로 풀면 된다.">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaAlgorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/add_two_numbers/add_two_numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/two_sum/two_sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/kotlin_solution/KotlinSolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/kotlin_solution/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/kotlin_solution/SolutionKotlin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자바기초/ch12/ch12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자바기초/자바기초.iml" afterDir="false" />
-    </list>
+    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="차례로 쌓아가는 것은 stack 구조로 풀면 된다." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +28,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629678195820</updated>
-      <workItem from="1629678197826" duration="316000" />
+      <workItem from="1629678197826" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="차례로 쌓아가는 것은 stack 구조로 풀면 된다.">
       <created>1629678278990</created>
@@ -66,7 +44,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629678314495</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="차례로 쌓아가는 것은 stack 구조로 풀면 된다.">
+      <created>1629678519140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629678519140</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
