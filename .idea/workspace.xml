@@ -29,6 +29,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629678195820</updated>
       <workItem from="1629678197826" duration="332000" />
+      <workItem from="1629678646654" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="차례로 쌓아가는 것은 stack 구조로 풀면 된다.">
       <created>1629678278990</created>
@@ -67,6 +68,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="차례로 쌓아가는 것은 stack 구조로 풀면 된다." />
