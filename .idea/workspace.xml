@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="회전 문제는 for문을 4번 써야 한다. 압박 받지 말자">
+    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="hashmap">
+      <change afterPath="$PROJECT_DIR$/programmers/소수찾기/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../taco-cloud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,6 +45,9 @@
       <workItem from="1629715675975" duration="33000" />
       <workItem from="1629771856118" duration="105000" />
       <workItem from="1629790080072" duration="7000" />
+      <workItem from="1629852366921" duration="207000" />
+      <workItem from="1629870255381" duration="6000" />
+      <workItem from="1629939810597" duration="1961000" />
     </task>
     <task id="LOCAL-00001" summary="차례로 쌓아가는 것은 stack 구조로 풀면 된다.">
       <created>1629678278990</created>
@@ -80,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629771951657</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hashmap">
+      <created>1629852568485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629852568485</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="차례로 쌓아가는 것은 stack 구조로 풀면 된다." />
     <MESSAGE value="회전 문제는 for문을 4번 써야 한다. 압박 받지 말자" />
-    <option name="LAST_COMMIT_MESSAGE" value="회전 문제는 for문을 4번 써야 한다. 압박 받지 말자" />
+    <MESSAGE value="hashmap" />
+    <option name="LAST_COMMIT_MESSAGE" value="hashmap" />
   </component>
 </project>
