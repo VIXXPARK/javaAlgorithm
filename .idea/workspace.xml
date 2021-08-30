@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="완전탐색">
-      <change afterPath="$PROJECT_DIR$/programmers/조이스틱/Solution.java" afterDir="false" />
+    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="변수 이름의 중요성을 느꼈다.">
+      <change afterPath="$PROJECT_DIR$/programmers/게임맵최단거리/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/전화번호목록/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/전화번호목록/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,11 @@
       <workItem from="1629939810597" duration="1987000" />
       <workItem from="1629962557924" duration="516000" />
       <workItem from="1629978762632" duration="78000" />
-      <workItem from="1630040495836" duration="1908000" />
+      <workItem from="1630040495836" duration="2294000" />
+      <workItem from="1630050949365" duration="816000" />
+      <workItem from="1630126341758" duration="2076000" />
+      <workItem from="1630129030552" duration="64000" />
+      <workItem from="1630287058405" duration="1244000" />
     </task>
     <task id="LOCAL-00001" summary="차례로 쌓아가는 것은 stack 구조로 풀면 된다.">
       <created>1629678278990</created>
@@ -121,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629957926385</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="변수 이름의 중요성을 느꼈다.">
+      <created>1630042782328</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630042782328</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +156,7 @@
     <MESSAGE value="회전 문제는 for문을 4번 써야 한다. 압박 받지 말자" />
     <MESSAGE value="hashmap" />
     <MESSAGE value="완전탐색" />
-    <option name="LAST_COMMIT_MESSAGE" value="완전탐색" />
+    <MESSAGE value="변수 이름의 중요성을 느꼈다." />
+    <option name="LAST_COMMIT_MESSAGE" value="변수 이름의 중요성을 느꼈다." />
   </component>
 </project>

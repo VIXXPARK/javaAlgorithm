@@ -9,7 +9,7 @@ public class Solution {
         for(String number: phone_book){
             for (int i = 0; i < number.length(); i++) {
                 String temp = number.substring(0,i);
-                if (map.containsKey(temp) && !temp.equals(number))
+                if (map.containsKey(temp))
                     return false;
             }
         }
