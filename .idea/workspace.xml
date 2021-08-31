@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="변수 이름의 중요성을 느꼈다.">
-      <change afterPath="$PROJECT_DIR$/programmers/게임맵최단거리/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/전화번호목록/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/전화번호목록/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="bfs solution clear" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +71,7 @@
       <workItem from="1630050949365" duration="816000" />
       <workItem from="1630126341758" duration="2076000" />
       <workItem from="1630129030552" duration="64000" />
-      <workItem from="1630287058405" duration="1244000" />
+      <workItem from="1630287058405" duration="1290000" />
     </task>
     <task id="LOCAL-00001" summary="차례로 쌓아가는 것은 stack 구조로 풀면 된다.">
       <created>1629678278990</created>
@@ -133,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630042782328</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="bfs solution clear">
+      <created>1630288369079</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630288369079</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +160,7 @@
     <MESSAGE value="hashmap" />
     <MESSAGE value="완전탐색" />
     <MESSAGE value="변수 이름의 중요성을 느꼈다." />
-    <option name="LAST_COMMIT_MESSAGE" value="변수 이름의 중요성을 느꼈다." />
+    <MESSAGE value="bfs solution clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="bfs solution clear" />
   </component>
 </project>
