@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="bfs solution clear" />
+    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="토너먼트 문제 푸는 방법">
+      <change afterPath="$PROJECT_DIR$/programmers/괄호회전하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +31,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.괄호회전하기.Solution" />
+      <module name="javaAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.괄호회전하기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.조이스틱.Solution" />
       <module name="javaAlgorithm" />
@@ -44,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -72,6 +89,9 @@
       <workItem from="1630126341758" duration="2076000" />
       <workItem from="1630129030552" duration="64000" />
       <workItem from="1630287058405" duration="1290000" />
+      <workItem from="1630371279129" duration="220000" />
+      <workItem from="1630375893009" duration="7000" />
+      <workItem from="1630445262780" duration="1327000" />
     </task>
     <task id="LOCAL-00001" summary="차례로 쌓아가는 것은 stack 구조로 풀면 된다.">
       <created>1629678278990</created>
@@ -136,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630288369079</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="토너먼트 문제 푸는 방법">
+      <created>1630371486919</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1630371486919</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +188,18 @@
     <MESSAGE value="완전탐색" />
     <MESSAGE value="변수 이름의 중요성을 느꼈다." />
     <MESSAGE value="bfs solution clear" />
-    <option name="LAST_COMMIT_MESSAGE" value="bfs solution clear" />
+    <MESSAGE value="토너먼트 문제 푸는 방법" />
+    <option name="LAST_COMMIT_MESSAGE" value="토너먼트 문제 푸는 방법" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/programmers/괄호회전하기/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
