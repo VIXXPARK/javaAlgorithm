@@ -12,7 +12,7 @@ public class Solution {
         int top = list.get(0);
         int cur = 0;
         while (true) {
-            while (cur < c.length && cur >= top) {
+            while (cur < c.length && c[cur] >= top) {
                 cur++;
             }
             if (cur >= top && c.length - cur <= top) {

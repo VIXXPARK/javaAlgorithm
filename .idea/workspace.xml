@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="stack의 전형적인 문제">
-      <change afterPath="$PROJECT_DIR$/programmers/h_index/Solution.java" afterDir="false" />
+    <list default="true" id="dac64572-5584-4135-a002-357f750bb12a" name="Changes" comment="sort하고 나서 해당 기준에 대하여 만족하는 값을 찾는 문제">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/h_index/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/h_index/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../taco-cloud" />
   </component>
   <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -93,7 +93,9 @@
       <workItem from="1630375893009" duration="7000" />
       <workItem from="1630445262780" duration="1548000" />
       <workItem from="1630446900716" duration="608000" />
-      <workItem from="1630623902082" duration="909000" />
+      <workItem from="1630623902082" duration="940000" />
+      <workItem from="1630661053707" duration="262000" />
+      <workItem from="1630796555971" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="차례로 쌓아가는 것은 stack 구조로 풀면 된다.">
       <created>1629678278990</created>
@@ -172,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630446725440</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="sort하고 나서 해당 기준에 대하여 만족하는 값을 찾는 문제">
+      <created>1630624837202</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1630624837202</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +208,8 @@
     <MESSAGE value="bfs solution clear" />
     <MESSAGE value="토너먼트 문제 푸는 방법" />
     <MESSAGE value="stack의 전형적인 문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="stack의 전형적인 문제" />
+    <MESSAGE value="sort하고 나서 해당 기준에 대하여 만족하는 값을 찾는 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort하고 나서 해당 기준에 대하여 만족하는 값을 찾는 문제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
